@@ -1,0 +1,3 @@
+# myPicGo
+
+**Storing pics**
